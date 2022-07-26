@@ -1,0 +1,1 @@
+//la configuracion en nodemon.json es necesaria, dado que cada vez que genero un nuevo ticket se actualiza el archivo db/data.json, por lo cual nodemon detecta un cambio y ses reininciar
